@@ -18,6 +18,7 @@ The image below shows the actual ARI measured by **gmm_gibbs.py**, where a value
 <div>
 	<img src='/image/ari.png' height="250px">
 </div>
+
 # Appendix
 Other examples of implementations using GMM are as follows  
 1. [GMM with Gibbssampling](https://github.com/is0383kk/GMM-Gibbs)

@@ -1,5 +1,5 @@
 # GMM-Gibbs
-Implementation of a Gaussian mixture model with Gibbs sampling.
+Implementation of a Gaussian mixture model with Gibbs sampling.  
 
 
 # How to run

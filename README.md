@@ -1,5 +1,6 @@
 # GMM-Gibbs
 Implementation of a Gaussian mixture model with Gibbs sampling.  
+ギブスサンプリングを適用したガウス混合モデルの実装例  
 
 
 # How to run
